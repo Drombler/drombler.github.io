@@ -1,6 +1,6 @@
 This is the home of the Open Source projects maintained by *Drombler*.
 
-Contributions are highly welcome. Please have a look at the [how to contribute page](contribute.html) for more information.
+Contributions are highly welcome. Please have a look at the [how to contribute page](contribute) for more information.
 
 ### Drombler JStore
 
