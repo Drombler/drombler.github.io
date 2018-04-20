@@ -1,5 +1,11 @@
 This is the home of the Open Source projects maintained by *Drombler*.
 
+Contributions are highly welcome. Please have a look at the [how to contribute page](contribute.html) for more information.
+
+### Drombler JStore
+
+[Drombler JStore](drombler-jstore) - The easy way to manage your *Java application* and *JRE* installations.
+
 ### Drombler FX
 
 [Drombler FX](drombler-fx) - the modular application framework for *JavaFX*.
