@@ -34,5 +34,4 @@ Developing software requires a lot of resources. If you like our Open Source eff
     <input type="hidden" name="hosted_button_id" value="ZG9SDKDG57H7W">
     <input type="image" src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
     <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
-</form>
-<a href="https://flattr.com/submit/auto?fid=32jl9p&url=http%3A%2F%2Fwww.drombler.org" target="_blank"><img src="http://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
+</form><a href="https://flattr.com/submit/auto?fid=32jl9p&url=http%3A%2F%2Fwww.drombler.org" target="_blank"><img src="http://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
