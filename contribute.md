@@ -4,7 +4,7 @@ This page describes how to contribute to the Drombler Open Source projects.
 
 #### Contributor License Agreement (CLA)
 
-To become a contributor you first need to sign the Drombler CLA (Contributor License Agreement)(http://www.drombler.com/oss/drombler-cla).
+To become a contributor you first need to sign the [Drombler CLA (Contributor License Agreement)](http://www.drombler.com/oss/drombler-cla).
 
 You need to sign this CLA *once* for every rights owner (e.g. if you change your employer or if you contribute as an individual).
 A signed CLA is valid for *all* contributions of one rights owner, however.
@@ -28,10 +28,12 @@ or file an issue if there isn't any for the language you would like to work on. 
 #### Donations
 
 Developing software requires a lot of resources. If you like our Open Source efforts and would like to support us financially, please use one of the options below:
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline;">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZG9SDKDG57H7W">
-<input type="image" src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="ZG9SDKDG57H7W">
+    <input type="image" src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 <a href="https://flattr.com/submit/auto?fid=32jl9p&url=http%3A%2F%2Fwww.drombler.org" target="_blank"><img src="http://button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a>
