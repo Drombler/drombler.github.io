@@ -29,6 +29,7 @@ or file an issue if there isn't any for the language you would like to work on. 
 
 Developing software requires a lot of resources. If you like our Open Source efforts and would like to support us financially, please use one of the options below:
 
+<iframe src="https://github.com/sponsors/Drombler/button" title="Sponsor Drombler" height="35" width="116" style="border: 0;"></iframe>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display: inline;">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="ZG9SDKDG57H7W">
